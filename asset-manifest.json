@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/RMLandingPage/static/css/main.183502c4.chunk.css",
+    "main.js": "/RMLandingPage/static/js/main.fa394a65.chunk.js",
+    "main.js.map": "/RMLandingPage/static/js/main.fa394a65.chunk.js.map",
+    "runtime-main.js": "/RMLandingPage/static/js/runtime-main.f9db44c6.js",
+    "runtime-main.js.map": "/RMLandingPage/static/js/runtime-main.f9db44c6.js.map",
+    "static/js/2.7071566e.chunk.js": "/RMLandingPage/static/js/2.7071566e.chunk.js",
+    "static/js/2.7071566e.chunk.js.map": "/RMLandingPage/static/js/2.7071566e.chunk.js.map",
+    "static/js/3.ecf64fbb.chunk.js": "/RMLandingPage/static/js/3.ecf64fbb.chunk.js",
+    "static/js/3.ecf64fbb.chunk.js.map": "/RMLandingPage/static/js/3.ecf64fbb.chunk.js.map",
+    "index.html": "/RMLandingPage/index.html",
+    "static/css/main.183502c4.chunk.css.map": "/RMLandingPage/static/css/main.183502c4.chunk.css.map",
+    "static/js/2.7071566e.chunk.js.LICENSE.txt": "/RMLandingPage/static/js/2.7071566e.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/RMLandingPage/static/media/micro.0eb639df.jpg",
+    "static/media/app1.e37e0b90.jpeg": "/RMLandingPage/static/media/app1.e37e0b90.jpeg",
+    "static/media/app2.d3896ad9.jpeg": "/RMLandingPage/static/media/app2.d3896ad9.jpeg",
+    "static/media/fellow.abcd03f0.jpg": "/RMLandingPage/static/media/fellow.abcd03f0.jpg",
+    "static/media/logo.6ce24c58.svg": "/RMLandingPage/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9db44c6.js",
+    "static/js/2.7071566e.chunk.js",
+    "static/css/main.183502c4.chunk.css",
+    "static/js/main.fa394a65.chunk.js"
+  ]
+}
